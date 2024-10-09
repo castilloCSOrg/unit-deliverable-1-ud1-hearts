@@ -5,7 +5,8 @@
   "git.autofetch": true,
   "java.project.referencedLibraries": [
     ".test/checkstyle-10.17.0-all.jar",
-    ".test/junit-platform-console-standalone-1.11.0-M2.jar"
+    ".test/junit-platform-console-standalone-1.11.0-M2.jar",
+    "test-lib/**/*.jar"
   ],
   "files.exclude": {
     "**/.git": true,
